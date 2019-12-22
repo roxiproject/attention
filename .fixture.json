@@ -1,0 +1,13 @@
+{
+  "_synthetic": true,
+  "generator": "gh-city-fixtures",
+  "repo": "gitcity-fixture-a/attention",
+  "language": "Python",
+  "topics": [
+    "nlp",
+    "transformers",
+    "diffusion",
+    "machine-learning",
+    "pytorch"
+  ]
+}
