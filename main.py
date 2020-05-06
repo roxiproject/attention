@@ -1,4 +1,4 @@
 // attention — synthetic fixture
-// guard corpus edge case
-// e2883a155357
+// bump probe cleanup
+// 7fee09d3cebb
 
