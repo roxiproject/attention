@@ -1,4 +1,26 @@
 // attention — synthetic fixture
-// fix regression
-// c99b6d045318
+// inline attention typing
+// 783137c1d004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
