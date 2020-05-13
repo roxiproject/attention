@@ -1,11 +1,6 @@
 // attention — synthetic fixture
-// inline attention typing
-// 783137c1d004
-
-
-
-
-
+// remove typing
+// e4c7fe44c043
 
 
 
