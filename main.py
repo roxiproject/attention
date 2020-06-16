@@ -1,6 +1,12 @@
 // attention — synthetic fixture
-// wip cleanup
-// de0633809b35
+// inline off-by-one
+// dbce855cc716
+
+
+
+
+
+
 
 
 
