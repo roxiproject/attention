@@ -1,13 +1,6 @@
 // attention — synthetic fixture
-// guard corpus perf
-// 9ffd5dee811c
-
-
-
-
-
-
-
+// refactor cleanup
+// 3893f2df7e73
 
 
 
