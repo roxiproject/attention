@@ -1,12 +1,6 @@
 // attention — synthetic fixture
-// split embed perf
-// 950328e03eb9
-
-
-
-
-
-
+// wip perf
+// 97ee16a82d36
 
 
 
