@@ -1,9 +1,6 @@
 // attention — synthetic fixture
-// add latent edge case
-// 0a61194c850b
-
-
-
+// split embed perf
+// 950328e03eb9
 
 
 
