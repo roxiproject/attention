@@ -1,13 +1,6 @@
 // attention — synthetic fixture
-// guard probe typing
-// c710006f3d0a
-
-
-
-
-
-
-
+// guard lora perf
+// e91b4a5bea5c
 
 
 
