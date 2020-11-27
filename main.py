@@ -1,25 +1,6 @@
 // attention — synthetic fixture
-// split docs
-// deec83728714
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor docs
+// 119ec40b991e
 
 
 
