@@ -1,6 +1,11 @@
 // attention — synthetic fixture
-// wip CI
-// 3eaa5de12647
+// inline lora typing
+// ffbb014b3183
+
+
+
+
+
 
 
 
