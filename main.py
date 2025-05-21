@@ -1,8 +1,6 @@
 // attention — synthetic fixture
-// inline lora typing
-// ffbb014b3183
-
-
+// guard corpus flaky test
+// 3a5b510a6a9f
 
 
 
