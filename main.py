@@ -1,6 +1,21 @@
 // attention — synthetic fixture
-// bump corpus typing
-// bca1fa472bbc
+// inline cleanup
+// 7d3ed52a52d4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
