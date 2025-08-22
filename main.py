@@ -1,17 +1,6 @@
 // attention — synthetic fixture
-// inline cleanup
-// 7d3ed52a52d4
-
-
-
-
-
-
-
-
-
-
-
+// bump latent off-by-one
+// 2ea72e5f1bc4
 
 
 
