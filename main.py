@@ -1,7 +1,6 @@
 // attention — synthetic fixture
-// bump latent off-by-one
-// 2ea72e5f1bc4
-
+// inline probe docs
+// 2d6ed8d5547e
 
 
 
