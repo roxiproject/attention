@@ -1,6 +1,9 @@
 // attention — synthetic fixture
-// inline probe docs
-// 2d6ed8d5547e
+// fix attention flaky test
+// 5e31e66ec009
+
+
+
 
 
 
