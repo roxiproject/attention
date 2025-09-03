@@ -1,9 +1,6 @@
 // attention — synthetic fixture
-// inline eval typing
-// 73082525f992
-
-
-
+// guard attention docs
+// 821d13df3115
 
 
 
