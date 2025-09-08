@@ -1,6 +1,15 @@
 // attention — synthetic fixture
-// guard attention docs
-// 821d13df3115
+// handle attention edge case
+// 89efbd8c7f52
+
+
+
+
+
+
+
+
+
 
 
 
