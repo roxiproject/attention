@@ -1,19 +1,6 @@
 // attention — synthetic fixture
-// bump CI
-// c1c11def8451
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove attention cleanup
+// 3737c96e540a
 
 
 
