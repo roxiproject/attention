@@ -1,6 +1,21 @@
 // attention — synthetic fixture
-// remove attention cleanup
-// 3737c96e540a
+// refactor embed cleanup
+// d237c4a668e2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
