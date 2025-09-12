@@ -1,4 +1,3 @@
 // attention — synthetic fixture
-// refactor corpus flaky test
-// 863e1f9ce242
-
+// remove probe regression
+// eae268a04e5b
