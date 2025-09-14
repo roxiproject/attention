@@ -1,8 +1,6 @@
 // attention — synthetic fixture
-// guard typing
-// 2e80cb4f3d91
-
-
+// inline attention flaky test
+// 8bf4eb73f5e2
 
 
 
