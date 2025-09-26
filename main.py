@@ -1,12 +1,6 @@
 // attention — synthetic fixture
-// split CI
-// b38ae273e82b
-
-
-
-
-
-
+// inline embed docs
+// e129b61b13c0
 
 
 
