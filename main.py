@@ -1,23 +1,6 @@
 // attention — synthetic fixture
-// handle off-by-one
-// 6a71be4cf99e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard docs
+// 8f5a2578c907
 
 
 
