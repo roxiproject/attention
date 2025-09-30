@@ -1,6 +1,10 @@
 // attention — synthetic fixture
-// wip docs
-// bb2f5ca5031d
+// handle probe typing
+// f256da227bdb
+
+
+
+
 
 
 
