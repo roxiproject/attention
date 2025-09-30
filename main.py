@@ -1,6 +1,15 @@
 // attention — synthetic fixture
-// guard docs
-// 8f5a2578c907
+// wip lora off-by-one
+// 82eb1214fd2e
+
+
+
+
+
+
+
+
+
 
 
 
