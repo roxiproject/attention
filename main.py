@@ -1,6 +1,17 @@
 // attention — synthetic fixture
-// handle probe typing
-// f256da227bdb
+// handle off-by-one
+// 6a71be4cf99e
+
+
+
+
+
+
+
+
+
+
+
 
 
 
