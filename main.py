@@ -1,3 +1,16 @@
 // attention — synthetic fixture
-// split attention CI
-// c6f9c0a7e355
+// inline latent typing
+// 3e9b206f27a6
+
+
+
+
+
+
+
+
+
+
+
+
+
