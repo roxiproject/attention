@@ -1,9 +1,3 @@
 // attention — synthetic fixture
-// remove CI
-// 98d0ca89acee
-
-
-
-
-
-
+// split attention CI
+// c6f9c0a7e355
