@@ -1,14 +1,4 @@
 // attention — synthetic fixture
-// guard tokenizer docs
-// b97e73361501
-
-
-
-
-
-
-
-
-
-
+// guard docs
+// 7e86c2d43663
 
