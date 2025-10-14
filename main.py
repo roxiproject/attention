@@ -1,3 +1,13 @@
 // attention — synthetic fixture
-// guard rlhf edge case
-// 743af3f19a07
+// remove off-by-one
+// 463c1c5f3454
+
+
+
+
+
+
+
+
+
+
