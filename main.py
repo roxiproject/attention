@@ -1,3 +1,3 @@
 // attention — synthetic fixture
-// bump regression
-// f5736aef61f4
+// guard rlhf edge case
+// 743af3f19a07
