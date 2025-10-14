@@ -1,13 +1,3 @@
 // attention — synthetic fixture
-// remove off-by-one
-// 463c1c5f3454
-
-
-
-
-
-
-
-
-
-
+// add corpus edge case
+// e530cd7220a6
