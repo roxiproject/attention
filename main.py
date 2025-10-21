@@ -1,3 +1,3 @@
 // attention — synthetic fixture
-// fix tokenizer edge case
-// 67015ff86ccc
+// guard eval CI
+// 2303e3b293f0
