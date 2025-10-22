@@ -1,3 +1,15 @@
 // attention — synthetic fixture
-// guard eval CI
-// 2303e3b293f0
+// wip latent docs
+// c4457f77f24a
+
+
+
+
+
+
+
+
+
+
+
+
