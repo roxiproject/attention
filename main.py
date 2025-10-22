@@ -1,13 +1,6 @@
 // attention — synthetic fixture
-// cache rlhf regression
-// 4eb3bb735c1b
-
-
-
-
-
-
-
+// wip rlhf perf
+// f177f5c40216
 
 
 
