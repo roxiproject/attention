@@ -1,6 +1,10 @@
 // attention — synthetic fixture
-// wip latent docs
-// c4457f77f24a
+// cache rlhf regression
+// 4eb3bb735c1b
+
+
+
+
 
 
 
