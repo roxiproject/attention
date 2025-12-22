@@ -1,7 +1,6 @@
 // attention — synthetic fixture
-// cache attention perf
-// 8910ddadfeee
-
+// remove latent cleanup
+// 7ecfe6076959
 
 
 
