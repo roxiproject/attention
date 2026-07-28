@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "attention-lib"
+version = "0.1.0"
+description = "Numpy-only implementations of attention mechanisms, from first principles"
+requires-python = ">=3.9"
+dependencies = ["numpy"]
+
+[tool.setuptools]
+packages = ["attention_lib"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
