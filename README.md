@@ -72,3 +72,15 @@ Run either with:
 python benchmarks/bench_sdpa.py
 python benchmarks/bench_gqa.py
 ```
+
+## Related projects
+
+Part of the roxiproject ML/research thread:
+
+- [attention-probe-kit](https://github.com/roxiproject/attention-probe-kit) — instruments attention heads to extract/visualize what a probe attends to; feeds activations to probe-experiments.
+- [probe-experiments](https://github.com/roxiproject/probe-experiments) — linear/non-linear probing experiments over model activations.
+- [embed-bench](https://github.com/roxiproject/embed-bench) — embedding quality benchmarking (nearest-neighbor recovery under k-means/LSH/IVF).
+- [lora-kit](https://github.com/roxiproject/lora-kit) — LoRA fine-tuning utilities, gradient-checked against dense-layer baselines.
+- [corpus-kit / corpus-bench / corpus-tokenizer-kit](https://github.com/roxiproject) — corpus/tokenizer pipeline.
+- [rlhf-experiments / rlhf-distill-experiments](https://github.com/roxiproject) — RLHF training/distillation.
+- [roxiproject](https://github.com/roxiproject/roxiproject) — account root / full project index.
